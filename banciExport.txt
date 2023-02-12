@@ -1,0 +1,35 @@
+Date despre banca:
+Chisinau 458956
+Cont: 500.8 12.12.2022 LEI
+3 etaje Bank1
+
+Date despre banca:
+Chisinau 458956
+Cont: 503.8 12.12.2022 LEI
+5 etaje Bank3
+
+Date despre banca:
+Chisinau 458956
+Cont: 500.8 12.12.2022 LEI
+6 etaje Bank4
+
+Date despre banca:
+Chisinau 558956
+Cont: 500.8 12.12.2022 LEI
+7 etaje Bank5
+
+Date despre banca:
+Chisinau 558956
+Cont: 500.8 12.12.2022 LEI
+9 etaje Bank7
+
+Date despre banca:
+Chisinau 558956
+Cont: 510.8 12.12.2022 LEI
+10 etaje Bank8
+
+Date despre banca:
+Chisinau 458956
+Cont: 600.8 12.12.2022 LEI
+2 etaje Bank10
+
